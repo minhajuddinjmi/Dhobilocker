@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<!-- saved from url=(0027)http://www.dhobilocker.com/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<!--[if IE]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="revisit-after" content="2 days">
+	<meta name="googlebot" content="ALL">
+	<meta name="robots" content="index,follow">
+	<meta name="rating" content="General">
+	<meta name="language" content="English">
+	<meta name="refresh" content="3">
+	<meta name="author" content="Dobhilocker (www.dobhilocker.com)">
+	<meta name="description" content="Dobhilocker, A product of Invati Technologies Private Limited, Replacing conventional Laundering in India  | Dobhilocker">
+	<link rel="shortcut icon" href="http://www.dhobilocker.com/fav.ico">
+	<title>Dobhilocker:Laundry in every building | Dobhilocker </title>
+	<link href="./cleangenie_files/bootstrap.min.css" rel="stylesheet">
+	<link href="./cleangenie_files/style.css" rel="stylesheet">
+	<link href="./cleangenie_files/animate.min.css" rel="stylesheet">
+	<link href="./cleangenie_files/slick.css" rel="stylesheet">
+	<link href="./cleangenie_files/slick-theme.css" rel="stylesheet">
+	<link href="./cleangenie_files/style(1).css" rel="stylesheet">
+	<link rel="stylesheet" href="./cleangenie_files/font-awesome.min.css">
+	<!-- REVOLUTION STYLE SHEETS -->
+	<link rel="stylesheet" type="text/css" href="./cleangenie_files/settings.css">
+	<!-- REVOLUTION LAYERS STYLES -->
+	<link rel="stylesheet" type="text/css" href="./cleangenie_files/layers.css">
+	<!-- REVOLUTION NAVIGATION STYLES -->
+	<link rel="stylesheet" type="text/css" href="./cleangenie_files/navigation.css">
+	
+	<style>
+#overlay {
+    position: fixed;
+    display: none;
+    width: 50%;
+    height: 50%;
+    top: 20%;
+    left: 20%;
+    right: ;
+    bottom:;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 2;
+    cursor: pointer;
+}
+#dlvideo{
+ cursor: pointer;
+
+}
+
+
+.btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #019dda;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+ .btn:hover {
+    background-color: black;
+
+
+</style>
+<script type="text/javascript" charset="UTF-8" src="./cleangenie_files/common.js.download"></script><script type="text/javascript" charset="UTF-8" src="./cleangenie_files/util.js.download"></script></head>
+
+<body>
+	<div class="loader" style="display: none;">
+		<div class="loader-wrapper">
+			<div class="bubble1"></div>
+			<div class="bubble2"></div>
+		</div>
+	</div>
+	<header>
+	
+		<div class="box-nav">
+			<div class="container">
+				<div class="row">
+					<div class="center">
+						<a id="touch-menu" class="mobile-menu" href="http://www.dhobilocker.com/#">
+							<span class="icon-menu-button-of-three-horizontal-lines"></span>
+						</a>
+						<nav class="top-menu">
+							<ul class="menu">
+								<li><a href="http://www.dhobilocker.com/index.html">Home</a></li>
+								<li><a href="http://www.dhobilocker.com/about.html">About</a></li> 
+								<li><a href="http://www.dhobilocker.com/contact.html">Contacts</a></li>
+								<li class="pull-right"><a class=" fa fa-phone "> +91 6361116838 </a> </li>
+								<li class=" text-3 pull-right"><a class=" fa fa-envelope "> sales@dhobilocker.com </a> </li>
+															
+							</ul>
+							
+							
+						</nav>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</header>
+	<div class="container">
+
+	
+
+
+		<div class="row fill-bg-2">
+			<img src="./cleangenie_files/WebMainPic22.png" alt="dhobilocker" style=" hight:50%; width:100% ">
+			<button class="pull-right btn" onclick="on()">Watch Video</button>
+			
+			
+			<div id="overlay" onclick="off()">
+			
+				<iframe id="dlvideo" src="./cleangenie_files/xMzcg017eh0.html" style=" width:100% ; height:90%"></iframe>
+			<a class="pull-right" style="color:white ;  font-size:12px">Close video X</a>
+		</div>	
+		</div>		
+		
+		<div class="bubbleContainer"><div class="bubble-1"></div><div class="bubble-2"></div><div class="bubble-3"></div><div class="bubble-4"></div><div class="bubble-5"></div><div class="bubble-6"></div><div class="bubble-7"></div><div class="bubble-8"></div><div class="bubble-9"></div><div class="bubble-10"></div></div><div class="bubbleContainer"><div class="bubble-1"></div><div class="bubble-2"></div><div class="bubble-3"></div><div class="bubble-4"></div><div class="bubble-5"></div><div class="bubble-6"></div><div class="bubble-7"></div><div class="bubble-8"></div><div class="bubble-9"></div><div class="bubble-10"></div></div>
+			
+	</div>		
+			
+	<br>
+	<div class="container"> 	
+		<h2 class="title-underline">Introducing <b>dhobilocker</b></h2>
+			<img src="./cleangenie_files/DLIntro2.bmp" alt="dhobilocker" style=" hight:60%; width:100% ">
+			
+			
+			<p class="text-center text-j">
+						<br>Dhobilocekr is a SaaS platform an unique combination of custom designed Digital Lockers and Mobile App for prviding Laundry service  <b>Invati</b> we are aiming to empower small, medium enterprises (SME’s), large enterprises and as well as <b>Individuals in Laundry service</b> to fit in to <b>DIGITAL FUTURE</b>
+					</p>
+	</div>
+		
+		
+		<br>
+		<div class="container"><h2 class="title-underline">How It Works:<b> in 4 Easy Steps</b></h2>
+			
+				
+					<div class="box-step animation row fill-bg-2 animated fadeIn" data-animation="fadeIn" data-animation-delay="0s" style="animation-delay: 0s;">
+						
+						<a href="http://www.dhobilocker.com/#" class="item">
+							<div class="icon">
+								<img src="./cleangenie_files/img_icon_01.png" class="img-responsive1" alt="">
+							</div>
+							<h6 class="description"><b>Step 1 : Drop-off</b></h6>
+							<h6 class=" text-left"><b> - Customers</b> will place cloths in locker &amp; locks it with random 4 Digit PIN. <br> - Places Order Via <b> dhobilocker </b>mobile app by choosing required laundry services.<br><p></p></h6>
+						</a>
+						<a href="http://www.dhobilocker.com/#" class="item animation animated fadeIn" data-animation="fadeIn" data-animation-delay="0.25s" style="animation-delay: 0.25s;">
+							<div class="icon">
+								<img src="./cleangenie_files/img_icon_02.png" class="img-responsive1" alt="">
+							</div>
+							<h6 class="description"><b>Step 2 : Collection</b></h6>
+							<h6 class="text-left"><b> - Dhobi </b>will collect all orders at once using master PIN.</h6>
+						</a>
+						<a href="http://www.dhobilocker.com/#" class="item animation animated fadeIn" data-animation="fadeIn" data-animation-delay="0.5s" style="animation-delay: 0.5s;">
+							<div class="icon">
+								<img src="./cleangenie_files/img_icon_03.png" class="img-responsive1" alt="">
+							</div>
+							<h6 class="description"><b>Step 3 : Delivery</b></h6>
+							<h6 class="text-left">- <b>Delivers</b> it back  by setting up a new <b>PIN.</b></h6>
+						</a>
+						<a href="http://www.dhobilocker.com/#" class="item animation animated fadeIn" data-animation="fadeIn" data-animation-delay="0.75s" style="animation-delay: 0.75s;">
+							<div class="icon">
+								<img src="./cleangenie_files/img_icon_04.png" class="img-responsive1" alt="">
+							</div>
+							<h6 class="description"><b>Step 4 : Pick-up</b></h6>
+							<h6 class="text-left"><b> - Customer</b> will receive delivery notification. <br>
+							<br> - <b>After Payment</b> receives locker number and PIN for pick-up.</h6>
+						</a>
+					</div>
+			
+
+		</div>
+<br>
+	
+			<div class="offset-top60 clearfix"><h2 class="title-underline">OUR <b>CUSTOMERS</b> CUM <b>SERVICE PARTNERS</b></h2><b>
+			<div class="container ex1img ">
+				
+											
+							<div class="dlcolumn">
+								<img href="http://www.cleangenie.com" class="img-responsive" src="./cleangenie_files/cleangenie.png" alt="cleangenie.com">
+							</div>	
+							<div class="dlcolumn">
+								<img href="http://www.lelaundry.com" class="img-responsive" src="./cleangenie_files/lelaundry.png" alt="lelaundry.com">
+								</div>
+								
+								<div class="dlcolumn">
+								<img href="http://www.wasshential.com" class="img-responsive" src="./cleangenie_files/wasshential.png" alt="wasshential.com">
+								</div>
+								
+								<div class="dlcolumn">
+								<img href="http://www.washbhaiya.com" class="img-responsive" src="./cleangenie_files/washbhaiya.png" alt="washbhaiya.com">
+							    </div>
+								<div class="dlcolumn">
+								<img href="http://www.laundrokart.com" class="img-responsive" src="./cleangenie_files/laundrokart.png" alt="laundrokart.com">
+								</div>
+								
+								<div class="dlcolumn">
+								<img href="http://www.thelaundrybasket.in" class="img-responsive" src="./cleangenie_files/thelaundrybasket.png" alt="laundrybasket.com">
+								</div>
+								<div class="dlcolumn">
+								<img href="http://www.washcare.com" class="img-responsive" src="./cleangenie_files/washcare.png" alt="washcare.com">
+								</div>
+								
+								
+								
+								
+								
+							</div>
+							
+						
+						
+					</b></div><b>
+				
+			
+	<br> <br>
+		
+		<h2 class="title-underline">DHOBIlOCER <b>IN ACTION</b></h2><b>
+		<!-- Slideshow container
+		<div class="icon">
+							<img style=" hight:50%; width:100%"  class="img-responsive position:center" src="images/DLModel.png" alt="dhobilocker.com">
+							<img style=" hight:50%; width:100%"  class="img-responsive" src="images/DLImp.png" alt="dhobilocker.com"><br>
+							<img style=" hight:50%; width:100%"  class="img-responsive" src="images/DLImp2.png" alt="dhobilocker.com">
+							<img style=" hight:50%; width:75%"  class="img-responsive" src="images/DLImp3.png" alt="dhobilocker.com" style="height:75%">
+							
+							</div> -->
+							
+							<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade" style="display: block;">
+    <div class="numbertext">1 / 5</div>
+    <img src="./cleangenie_files/DLImg1.png" style="width:100%">
+    
+  </div>
+
+  <div class="mySlides fade" style="display: none;">
+    <div class="numbertext">2 / 5</div>
+    <img src="./cleangenie_files/DLImg2.png" style="width:100%">
+  </div>
+
+  <div class="mySlides fade" style="display: none;">
+    <div class="numbertext">3 / 5</div>
+    <img src="./cleangenie_files/DLImg3.png" style="width:100%">
+  </div>
+  
+    <div class="mySlides fade" style="display: none;">
+		<div class="numbertext">4 / 5</div>
+		<img src="./cleangenie_files/DLImg4.png" style="width:100%">
+    </div>
+
+    <div class="mySlides fade" style="display: none;">
+    <div class="numbertext">5 / 5</div>
+    <img src="./cleangenie_files/DLImg44.png" style="width:100%">
+  </div>
+  
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">❮</a>
+  <a class="next" onclick="plusSlides(1)">❯</a>
+</div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot active" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+</div>
+		
+
+
+
+    <br><br>
+	
+	<div class="offset-top60 clearfix"><h2 class="title-underline">Implementation <b>SITES</b> </h2>
+			<div class="container ex1img">
+			
+							<div class="dlcolumn">
+								<img class="img-responsive" src="./cleangenie_files/Myromie.png" alt="dhobilcoker.com">
+							</div>
+							<div class="dlcolumn">
+								<img class="img-responsive" src="./cleangenie_files/Zolostays.png" alt="dhobilcoker.com">
+							</div>
+							<div class="dlcolumn">
+								<img class="img-responsive" src="./cleangenie_files/Zenstays.png" alt="dhobilcoker.com">
+							</div>	
+							<div class="dlcolumn">
+								<img class="img-responsive" src="./cleangenie_files/Smartworks.png" alt="dhobilcoker.com">
+							</div>	
+							<div class="dlcolumn">
+								<img class="img-responsive" src="./cleangenie_files/Royallegend.png" alt="dhobilcoker.com">
+							</div>
+							<div class="dlcolumn">
+								<img class="img-responsive" src="./cleangenie_files/Sankalpcherry.png" alt="dhobilcoker.com">
+							</div>	
+							<div class="dlcolumn">
+								<img class="img-responsive" src="./cleangenie_files/Ragavendrabloomfields.png" alt="dhobilcoker.com">
+							</div>							
+			</div>
+	</div>
+	
+	<br><br>
+	<div class="offset-top60 clearfix"><h2 id="price" class="title-underline"> Our Prices</h2>
+			<div class="container offset-top0">
+			
+    
+    <!-- Pricing Tables -->
+    <div class="w3-row-padding" style="margin:0 -16px">
+      <div class="w3-third w3-margin-bottom">
+        <ul class="w3-ul w3-border w3-white w3-center w3-opacity w3-hover-opacity-off">
+          <li class="fill-bg-3 w3-xlarge w3-padding-32">Locker</li>
+          <li class="w3-padding-16">Custom designed</li>
+          <li class="w3-padding-16"> Digital Lockers</li>
+          <li class="w3-padding-16">Cabins 3 : Premium</li>
+          <li class="w3-padding-16">Cabins 6 : Premium plus</li>
+          <li class="w3-padding-16">
+          
+            <span class="w3-opacity">One time</span>
+			
+          </li>
+		  <!--
+          <li class="w3-light-grey w3-padding-24">
+            <button class="w3-button w3-teal w3-padding-large w3-hover-black">Image</button>
+          </li>-->
+        </ul>
+      </div>
+	  <!--
+      <div class="w3-third w3-margin-bottom">
+        <ul class="w3-ul w3-border w3-white w3-center w3-opacity w3-hover-opacity-off">
+          <li class="fill-bg-3 w3-xlarge w3-padding-32">Locker Model</li>
+           <br><img src="images/dl_dim.png" class="img-responsive1" alt="">
+         </li>
+        </ul>
+      </div>
+	  -->
+      <div class="w3-third w3-margin-bottom">
+        <ul class="w3-ul w3-border w3-white w3-center w3-opacity w3-hover-opacity-off">
+          <li class="w3-teal w3-xlarge w3-padding-32">Mobile App</li>
+          <li class="w3-padding-16">Core Version</li>
+          <li class="w3-padding-16">Basic Reports</li>
+          <li class="w3-padding-16">Rate cared Configuration</li>
+          <li class="w3-padding-16">Invoice (GST Complaint)</li>
+          <li class="w3-padding-16">
+           
+            <span class="w3-opacity">On-Boarding charges</span>
+          </li>
+          <!--
+          <li class="w3-light-grey w3-padding-24">
+            <button class="w3-button w3-teal w3-padding-large w3-hover-black">Image</button>
+          </li>-->
+        </ul>
+      </div>
+      
+      <div class="w3-third">
+        <ul class="w3-ul w3-border w3-white w3-center w3-opacity w3-hover-opacity-off">
+          <li class="fill-bg-1 w3-xlarge w3-padding-32">Support &amp; Maintenance </li>
+          <li class="w3-padding-16">SLA</li>
+          <li class="w3-padding-16">Enhancements</li>
+          <li class="w3-padding-16">Custom development</li>
+          <li class="w3-padding-16">Full time support</li>
+          <li class="w3-padding-16">
+        
+            <span class="w3-opacity">Monthly</span>
+          </li>
+          <!--
+          <li class="w3-light-grey w3-padding-24">
+            <button class="w3-button w3-teal w3-padding-large w3-hover-black">Image</button>
+          </li>-->
+        </ul>
+      </div>
+    </div>
+  </div>
+
+		 
+	<div class="container">
+			<h2 class="title-underline">Why Choose Us</h2>
+			<div class="row permission-box-mobile arrow-on-white">
+				<div class="col-md-4">
+					<!-- permission box -->
+					<a href="http://www.dhobilocker.com/#" class="permission-box animation" data-animation="fadeInLeft" data-animation-delay="0s" style="animation-delay: 0s;">
+						<span class="icon icon-bright-lightbulb"></span>
+					<div class="description">
+							<h4 class="title">Custom Solution</h4>
+							<p>
+								Our Laundry lockers and mobile apps are highly customisable and with easy configurations you can set your brand, services and rate card to suite your business needs. 
+							</p>
+					</div>
+					</a>
+					<!-- /permission box -->
+				</div>
+				<div class="col-md-4">
+					<!-- permission box -->
+					<a href="http://www.dhobilocker.com/#" class="permission-box animation" data-animation="fadeIn" data-animation-delay="0s" style="animation-delay: 0s;">
+						<span class="icon icon-tag-1"></span>
+						<div class="description">
+							<h4 class="title">Affordable Pricing</h4>
+							<p>
+								Prices are subscription basis. with low initial investments you can start shifting to new method of laundering
+							</p>
+						</div>
+					</a>
+					<!-- /permission box -->
+				</div>
+				<div class="col-md-4">
+					<!-- permission box -->
+					<a href="http://www.dhobilocker.com/#" class="permission-box animation" data-animation="fadeInRight" data-animation-delay="0s" style="animation-delay: 0s;">
+						<span class="icon icon-reading-book"></span>
+						<div class="description">
+							<h4 class="title">Convenience to your customers</h4>
+							<p>
+								With <b>dhobilocker</b> you can provide personalized experience to your customers as you will be available 24/7 in there building for them to avail your services in one tap all times.<br> Which binds you and your customers ensuring continued business.
+							</p>
+						</div>
+					</a>
+					<!-- /permission box -->
+				</div>
+				<div class="clearfix hidden-xs hidden-sm"></div>
+				<div class="col-md-4">
+					<!-- permission box -->
+					<a href="http://www.dhobilocker.com/#" class="permission-box animation" data-animation="fadeInLeft" data-animation-delay="0s" style="animation-delay: 0s;">
+						<span class="icon icon-quality"></span>
+						<div class="description">
+							<h4 class="title">Quality</h4>
+							<p>
+								We provide the best in class Lockers and mobile solutions, to assure that your business runs smoothly.
+							</p>
+						</div>
+					</a>
+					<!-- /permission box -->
+				</div>
+				<div class="col-md-4">
+					<!-- permission box -->
+					<a href="http://www.dhobilocker.com/#" class="permission-box animation" data-animation="fadeIn" data-animation-delay="0s" style="animation-delay: 0s;">
+						<span class="icon icon-express-delivery"></span>
+						<div class="description">
+							<h4 class="title">Express service</h4>
+							<p>
+								Our strong team will ensure you will get assistance in rapid speed for all your queries and concerns.
+							</p>
+						</div>
+					</a>
+					<!-- /permission box -->
+				</div>
+				<div class="col-md-4">
+					<!-- permission box -->
+					<a href="http://www.dhobilocker.com/#" class="permission-box animation" data-animation="fadeInRight" data-animation-delay="0s" style="animation-delay: 0s;">
+						<span class="icon icon-interface"></span>
+						<div class="description">
+							<h4 class="title">Instant Updates and Reports </h4>
+							<p>
+								You can track your daily orders via dhobilocker mobile app, update order status, generate invoice, configure services and your rate card, generate various business reports all in one tap via our mobile app.						
+								</p>
+												</div>
+					</a>
+					<!-- /permission box -->
+				</div>
+			</div>
+	</div>
+		
+
+	<footer class="offset-top0">
+		<div class="container">
+			<div class="row">
+			
+				<div class="col-md-3">
+					<a class="logo-footer" href="http://www.dhobilocker.com/index.html"><img src="./cleangenie_files/logo_footer_TM.png" alt=""></a>
+					<br><br>
+					<ul class="footer-link">
+						<li><a href="http://www.dhobilocker.com/policy_terms.html">Terms and Policy</a></li> 
+					</ul>
+				</div>
+				<div class="col-md-6">
+					<!-- promo  -->
+						<div class="promo-footer text-center">
+							<a class="logo-footer" href="http://www.dhobilocker.com/index.html"><img src="./cleangenie_files/Invati_Logo.png" style="width:40%" alt=""></a>
+						</div>
+					<!-- /promo -->
+				</div>
+				<div class="  pull-right">
+					<!-- promo  -->
+						
+							<span class=" fa fa-phone text-2">+91 6361116838 </span> <br>
+						<!-- promo -->
+							<span class=" fa fa-envelope text-2">sales@dhobilocker.com</span>
+				</div></div>
+			
+					<div class="row footer-separator">
+					
+					</div>
+					
+					<div class="pull-right">
+						<a href="https://www.textlocal.in/?utm_source=referral&amp;utm_medium=banner&amp;utm_campaign=lboffer_dhobilocker.com">
+						<img src="./cleangenie_files/textlocal1.svg" width="200" title="Textlocal Bulk SMS Partner" alt="Textlocal Bulk SMS Service"></a>
+				
+					
+				</div>
+						
+				<div class=" hidden-sm hidden-xs  pull-left">
+					<ul>
+						<li><a>© 2019 dhobilocker. All Rights Reserved Invati Technologies Pvt Ltd.</a></li> 
+					</ul>
+				</div>
+				
+					
+			
+		</div>	
+		
+				
+		
+	
+	
+
+	
+
+	
+				
+			
+				
+		<div class="bubbleContainer"><div class="bubble-1"></div><div class="bubble-2"></div><div class="bubble-3"></div><div class="bubble-4"></div><div class="bubble-5"></div><div class="bubble-6"></div><div class="bubble-7"></div><div class="bubble-8"></div><div class="bubble-9"></div><div class="bubble-10"></div></div>
+	</footer>
+
+	<!--[if lt IE 9]>
+
+	<![endif]-->
+	<script src="./cleangenie_files/jquery.min.js.download"></script>
+	<script src="./cleangenie_files/bootstrap.min.js.download"></script>
+	<script src="./cleangenie_files/slick.min.js.download"></script>
+	<script src="./cleangenie_files/jquery.waypoints.min.js.download"></script>
+	<script src="./cleangenie_files/jquery.countTo.js.download"></script>
+	<script src="./cleangenie_files/main.js.download"></script>
+	<script type="text/javascript" src="./cleangenie_files/js"></script>
+
+	<!-- REVOLUTION JS FILES -->
+	<script type="text/javascript" src="./cleangenie_files/jquery.themepunch.tools.min.js.download"></script>
+	<script type="text/javascript" src="./cleangenie_files/jquery.themepunch.revolution.min.js.download"></script>
+	<!-- SLIDER REVOLUTION 5.0 EXTENSIONS -->
+	<script type="text/javascript" src="./cleangenie_files/revolution.extension.actions.min.js.download"></script>
+	<script type="text/javascript" src="./cleangenie_files/revolution.extension.carousel.min.js.download"></script>
+	<script type="text/javascript" src="./cleangenie_files/revolution.extension.kenburn.min.js.download"></script>
+	<script type="text/javascript" src="./cleangenie_files/revolution.extension.layeranimation.min.js.download"></script>
+	<script type="text/javascript" src="./cleangenie_files/revolution.extension.migration.min.js.download"></script>
+	<script type="text/javascript" src="./cleangenie_files/revolution.extension.navigation.min.js.download"></script>
+	<script type="text/javascript" src="./cleangenie_files/revolution.extension.parallax.min.js.download"></script>
+	<script type="text/javascript" src="./cleangenie_files/revolution.extension.slideanims.min.js.download"></script>
+	<script type="text/javascript" src="./cleangenie_files/revolution.extension.video.min.js.download"></script>
+
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+
+			// Revolution Slider
+			jQuery('.tp-banner').show().revolution({
+				sliderType: "standard",
+				sliderLayout: "fullwidth",
+				dottedOverlay: "none",
+				delay: 6000,
+				navigation: {
+					keyboardNavigation: "off",
+					keyboard_direction: "horizontal",
+					mouseScrollNavigation: "off",
+					mouseScrollReverse: "default",
+					onHoverStop: "off",
+					touch: {
+						touchenabled: "on",
+						swipe_threshold: 75,
+						swipe_min_touches: 1,
+						swipe_direction: "horizontal",
+						drag_block_vertical: false
+					},
+					arrows: {
+						style: "uranus",
+						enable: true,
+						hide_onleave: true
+					}
+				},
+				responsiveLevels: [1920, 1200, 992, 768],
+				visibilityLevels: [1920, 1200, 992, 768],
+				gridwidth: [1920, 1200, 992, 768],
+				gridheight: [778, 486, 402, 300],
+				lazyType: "single",
+				shadow: 0,
+				spinner: "off",
+				stopLoop: "on",
+				stopAfterLoops: 0,
+				shuffle: "off",
+				autoHeight: "off",
+				fullScreenAutoWidth: "off",
+				fullScreenAlignForce: "off",
+				disableProgressBar: "on",
+				hideThumbsOnMobile: "off",
+				hideSliderAtLimit: 0,
+				hideCaptionAtLimit: 0,
+				hideAllCaptionAtLilmit: 0,
+				debugMode: false
+			});
+		}); //ready
+		
+		function on() {
+		
+	
+    document.getElementById("overlay").style.display = "block";
+
+	
+}
+
+function off() { 
+
+    document.getElementById("overlay").style.display = "none";
+
+
+}
+
+var slideIndex = 1;
+showSlides(slideIndex);
+
+// Next/previous controls
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+// Thumbnail image controls
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1} 
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none"; 
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block"; 
+  dots[slideIndex-1].className += " active";
+}
+
+
+
+
+	</script>
+
+
+</div></b></b></body></html>
